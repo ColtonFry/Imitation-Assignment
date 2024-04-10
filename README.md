@@ -1,2 +1,1 @@
-# Imitation-Assignment
-Imitation Assignment
+<html style="height: 100%;"><head><meta name="viewport" content="width=device-width, minimum-scale=0.1"><title>Butterfly</title></head><body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://s3.amazonaws.com/cms.accelerate-ed.com/image/a0e55d43-1091-41d2-acdb-769c8205e8ee.jpg"></body></html>
