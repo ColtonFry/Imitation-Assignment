@@ -8,4 +8,4 @@
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://s3.amazonaws.com/cms.accelerate-ed.com/image/f2be783a-ed69-4ed4-b56c-029b896ca420.jpg">
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://s3.amazonaws.com/cms.accelerate-ed.com/image/dfd8c1c3-a2a6-4ead-baad-108e1f656c8e.png">
+<head><meta name="viewport" content="width=device-width, minimum-scale=0.1"><title>dfd8c1c3-a2a6-4ead-baad-108e1f656c8e.png (612×341)</title></head><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://s3.amazonaws.com/cms.accelerate-ed.com/image/dfd8c1c3-a2a6-4ead-baad-108e1f656c8e.png">
